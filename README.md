@@ -1,0 +1,2 @@
+# Data_Scrape
+This project was started after my bike was stolen and due to Covid19 all bikes were sold out. The only bikes that would be available would be the new 2021 bikes and therefore visiting the website everyday was clearly not an option. This script scrapes Wheelies and reports when new 2021 bikes are listed. It also takes a tsv file with bikes of interest which is then used to check if any of the new bikes listed match a bike I would already consider buying
